@@ -158,7 +158,7 @@ Topic 0 : 408   Topic 1 (Cricket): 17   Topic 2(Athletics): 21   Topic 3(Footbal
 
 We can see that this model has topics which are not clearly defined by the words descibing them specially in the case for topic 0 as compared to NMF and LSA
 
-So in comparison, we see that LSA performs better than the two
+#### So in comparison, we see that LSA performs better than the two as it helps us in distinguishing the articles more by seeing throught the words in topics
 
 PS: These results are different for different datasets. My motive of doing this project is use three techinques used in this process and learn them.
 
